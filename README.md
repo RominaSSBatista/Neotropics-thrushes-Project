@@ -74,6 +74,6 @@ We would like to thank the many institutions that provided tissue loans for this
 
 *	American Museum of Natural History, AMNH, New York, NY, USA ([AMNH](http://www.amnh.org/science/divisions/vertzoo/#collections)).
 
-We also would like to thank Mats Töpel ([mtop](http://matstopel.se/)), for his support with bioinformatics computer cluster Albiorix at the Department of Biological and Environmental Sciences, University of Gothenburg ([Albiorix](http://albiorix.bioenv.gu.se/)) and his constructive advice that greatly helped to improve this repository.
+We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository.
 
 ---
