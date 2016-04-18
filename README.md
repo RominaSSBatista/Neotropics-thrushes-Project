@@ -1,7 +1,7 @@
 ### Authors
 ===
 
-###### Romina Batista (INPA, Manaus, Brazil / GU, Gothenburg, Sweden), Tobias Hoffmann (GU, Gothenburg, Sweden), Urban Olsson (GU, Gothenburg, Sweden), Alexandre Antonelli (GU, Gothenburg, Sweden), Camila Ribas (INPA, Manaus, Brazil)
+##### Romina Batista (INPA, Manaus, Brazil / GU, Gothenburg, Sweden), Tobias Hoffmann (GU, Gothenburg, Sweden), Urban Olsson (GU, Gothenburg, Sweden), Alexandre Antonelli (GU, Gothenburg, Sweden), Camila Ribas (INPA, Manaus, Brazil)
 
 
 *	INPA: Instituto Nacional de Pesquisas da Amazônia ([INPA](http://portal.inpa.gov.br/)), PPG-GCBEV - Programa de Pós Graduação em Genética, Conservação e Biologia Evolutiva ([GCBEV](http://gcbev.inpa.gov.br/))
@@ -34,7 +34,7 @@ Here, we sequenced ~2,500 UCEs Loci and 98 exons, used in previous phylogenetic 
 
 *	Romina Batista extracted DNA and sent outsourcing ([Rapid Genomics](http://www.rapid-genomics.com/)) to proceed with Library Preparation, Sequence Capture and Sequencing. 
 
-*	Romina Batista analysed the data, with Tobias Hoffmann guidance. 
+*	Romina Batista analysed the data, with [Tobias Hoffmann](https://github.com/tobiashofmann88) guidance. 
 
 *	Romina Batista built this repository.
 
