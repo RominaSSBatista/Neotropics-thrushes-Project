@@ -1,12 +1,12 @@
 ### Authors
 ---
 
-##### Romina Batista (INPA, Manaus, Brazil / GU, Gothenburg, Sweden), Tobias Hoffmann (GU, Gothenburg, Sweden), Urban Olsson (GU, Gothenburg, Sweden), Alexandre Antonelli (GU, Gothenburg, Sweden), Camila Ribas (INPA, Manaus, Brazil)
+##### Romina Batista<sup>1</sup>, Tobias Hoffmann<sup>2</sup>, Urban Olsson<sup>2</sup>, Alexandre Antonelli<sup>2</sup>, Camila Ribas<sup>1</sup>
 ---
 
-*	INPA: Instituto Nacional de Pesquisas da Amazônia ([INPA](http://portal.inpa.gov.br/)), PPG-GCBEV - Programa de Pós Graduação em Genética, Conservação e Biologia Evolutiva ([GCBEV](http://gcbev.inpa.gov.br/))
+<sup>1</sup>INPA: Instituto Nacional de Pesquisas da Amazônia ([INPA](http://portal.inpa.gov.br/)), PPG-GCBEV - Programa de Pós Graduação em Genética, Conservação e Biologia Evolutiva ([GCBEV](http://gcbev.inpa.gov.br/))
 
-*	GU: University of Gothenburg - Department of Biological and Environmental Sciences, [The Antonelli Lab](http://www.antonelli-lab.net/), [Github](https://github.com/AntonelliLab)
+<sup>2</sup>GU: University of Gothenburg - Department of Biological and Environmental Sciences, [The Antonelli Lab](http://www.antonelli-lab.net/), [Antonelli-Lab Github](https://github.com/AntonelliLab)
 
 ![Image](images/Dimensions-UCE-thrushes001.png)               ![Image](images/Dimensions-UCE-thrushes002.png)
 
