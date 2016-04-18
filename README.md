@@ -30,7 +30,7 @@ Here, we sequenced ~2,500 UCEs Loci and 98 exons, used in previous phylogenetic 
 ### Collaborator Roles
 ---
 
-*	The Project was conceived and designed by [Romina Batista](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4232850J7), [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban), [Alexandre Antonelli]((http://www.antonelli-lab.net/)) and [Camila Ribas](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760723U4). 
+*	The Project was conceived and designed by [Romina Batista](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4232850J7), [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban), [Alexandre Antonelli](http://www.antonelli-lab.net/) and [Camila Ribas](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760723U4). 
 
 *	Romina Batista extracted DNA and sent outsourcing ([Rapid Genomics](http://www.rapid-genomics.com/)) to proceed with Library Preparation, Sequence Capture and Sequencing. 
 
