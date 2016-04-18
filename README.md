@@ -34,11 +34,11 @@ Here, we sequenced ~2,500 UCEs Loci and 98 exons, used in previous phylogenetic 
 
 *	Romina Batista extracted DNA and sent outsourcing ([Rapid Genomics](http://www.rapid-genomics.com/)) to proceed with Library Preparation, Sequence Capture and Sequencing. 
 
-*	Romina Batista analysed the data, with [Tobias Hoffmann](https://github.com/tobiashofmann88) guidance. 
+*	Romina Batista processed the data, with [Tobias Hoffmann](https://github.com/tobiashofmann88) guidance. 
 
 *	Romina Batista built this repository.
 
-*	Romina Batista is leading manuscript preparation. 
+*	Romina Batista is analysing the data, and leading manuscript preparation. 
 
 *	All collaborators are involved in discussions, and interpreting results.
 
