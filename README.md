@@ -1,8 +1,8 @@
 ### Authors
-===
+---
 
 ##### Romina Batista (INPA, Manaus, Brazil / GU, Gothenburg, Sweden), Tobias Hoffmann (GU, Gothenburg, Sweden), Urban Olsson (GU, Gothenburg, Sweden), Alexandre Antonelli (GU, Gothenburg, Sweden), Camila Ribas (INPA, Manaus, Brazil)
-
+---
 
 *	INPA: Instituto Nacional de Pesquisas da Amazônia ([INPA](http://portal.inpa.gov.br/)), PPG-GCBEV - Programa de Pós Graduação em Genética, Conservação e Biologia Evolutiva ([GCBEV](http://gcbev.inpa.gov.br/))
 
@@ -13,7 +13,7 @@
 ---
 
 ### Overview
-===
+---
 
 The genus *Turdus* (Aves, Turdidae) consists of 71 currently recognized species occurring throughout the world. Previous attempts to reconstruct phylogenies have proved extremely challenging due to short internal branches and low node support. South and Central America currently host the highest number of species (23 of 71) in the genus Turdus (Aves: Turdidae), and previous studies ([Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)) suggest that this is due to an exceptional radiation following dispersal from Africa. Detailed biogeographic studies on a finer scale in South America are necessary to examine the evolutionary history for these taxa, as well as for revising current taxonomy. 
 
@@ -28,9 +28,9 @@ Here, we sequenced ~2,500 UCEs Loci and 98 exons, used in previous phylogenetic 
 ---
 
 ### Collaborator Roles
-===
+---
 
-*	The Project was conceived and designed by Romina Batista, Urban Olsson, Alexandre Antonelli and Camila Ribas. 
+*	The Project was conceived and designed by [Romina Batista](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4232850J7), [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban), [Alexandre Antonelli]((http://www.antonelli-lab.net/)) and [Camila Ribas](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760723U4). 
 
 *	Romina Batista extracted DNA and sent outsourcing ([Rapid Genomics](http://www.rapid-genomics.com/)) to proceed with Library Preparation, Sequence Capture and Sequencing. 
 
@@ -45,7 +45,7 @@ Here, we sequenced ~2,500 UCEs Loci and 98 exons, used in previous phylogenetic 
 ---
 
 ### Funding
-===
+---
 
 Funding for this project came from: 
 
@@ -58,7 +58,7 @@ Funding for this project came from:
 ---
 
 ### Acknowledgements
-=== 
+--- 
 
 We would like to thank the many institutions that provided tissue loans for this research: 
 
