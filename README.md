@@ -49,7 +49,8 @@ Here, we sequenced ~2,500 UCEs Loci and 98 exons, used in previous phylogenetic 
 
 Funding for this project came from: 
 
-1. NATIONAL SCIENCE FOUNDATION and FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO - FAPESP: 2012/50260-6, TITLE OF THE PROJECT "ASSEMBLY AND EVOLUTION OF THE AMAZONIAN BIOTA AND ITS ENVIRONMENT: AN INTEGRATED APPROACH"
+1. NATIONAL SCIENCE FOUNDATION and FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO - FAPESP: 2012/50260-6, TITLE OF THE PROJECT "ASSEMBLY AND EVOLUTION OF THE AMAZONIAN BIOTA AND ITS ENVIRONMENT: AN INTEGRATED APPROACH". Principal Investigators (PI): [Lúcia Lohmann](http://lattes.cnpq.br/3340828165410597)
+(IB-USP) e [Joel Cracraft](http://www.amnh.org/our-research/staff-directory/joel-l.-cracraft/) (AMNH). 
 
 2. Coordination for the Improvement of Higher Education Personnel (CAPES), A Doctoral Fellowship for Interneship abroad to Romina Batista. 
 
