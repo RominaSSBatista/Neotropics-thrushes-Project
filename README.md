@@ -80,3 +80,7 @@ We also would like to thank [Mats Töpel](http://matstopel.se/), for his support
 I also would like to thank [Chrysoula Gubili](https://www.researchgate.net/profile/Chrysoula_Gubili) for her constructive advice and support to improve the Bioinformatic's Workflow.
 
 ---
+
+### Notes 
+
+:on: Analyses running in /state/partition4/romina/ on [Albioix](http://albiorix.bioenv.gu.se/)
