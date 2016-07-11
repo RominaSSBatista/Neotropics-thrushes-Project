@@ -77,7 +77,7 @@ We would like to thank the many institutions that provided tissue loans for this
 
 We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository.
 
-I also would like to thank [Chrysoula Gubili](https://www.researchgate.net/profile/Chrysoula_Gubili) for her constructive advice and support to improve the Bioinformatic's Workflow.
+I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chrysoula-gubili/mo1in) for her constructive advice and support to improve the Bioinformatic's Workflow.
 
 ---
 
