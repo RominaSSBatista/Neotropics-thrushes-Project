@@ -83,4 +83,4 @@ I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chryso
 
 ### Notes 
 
-:on: Analyses running in /state/partition4/romina/ on [Albioix](http://albiorix.bioenv.gu.se/)
+:on: Analyses running in `/state/partition4/romina/` on [Albioix](http://albiorix.bioenv.gu.se/)
