@@ -1,12 +1,18 @@
 ### Authors
 ---
 
-##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup>, Tobias Hoffmann<sup>2</sup>, Urban Olsson<sup>2</sup>, Alexandre Antonelli<sup>2</sup>, Camila Ribas<sup>1</sup>
+##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup>, Tobias Hoffmann<sup>3</sup><sup>,</sup><sup>4</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>, Alexandre Aleixo<sup>5</sup>, Alexandre Antonelli<sup>3</sup><sup>,</sup><sup>4</sup>, Camila Ribas<sup>1</sup><sup>,</sup><sup>2</sup>
 ---
 
-<sup>1</sup>INPA: Instituto Nacional de Pesquisas da Amazônia ([INPA](http://portal.inpa.gov.br/)), PPG-GCBEV - Programa de Pós Graduação em Genética, Conservação e Biologia Evolutiva ([GCBEV](http://gcbev.inpa.gov.br/))
+<sup>1</sup>Programa de Pós-Graduação em Genética, Conservação e Biologia Evolutiva, PPG ([GCBEV](http://gcbev.inpa.gov.br/))  - Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
 
-<sup>2</sup>GU: University of Gothenburg - Department of Biological and Environmental Sciences, [The Antonelli Lab](http://www.antonelli-lab.net/), [Antonelli-Lab Github](https://github.com/AntonelliLab)
+<sup>2</sup>Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
+
+<sup>3</sup>University of Gothenburg - Department of Biological and Environmental Sciences, [The Antonelli Lab](http://www.antonelli-lab.net/), [Antonelli-Lab Github](https://github.com/AntonelliLab), SE-413 19 Gothenburg, Sweden 
+
+<sup>4</sup>Gothenburg Global Biodiversity Centre, Box 461, SE-405 30 Gothenburg, Sweden
+
+<sup>5</sup>Coordenação de Zoologia, Museu Paraense Emílio Goeldi, Belém, Pará, Brazil
 
 ![Image](images/Dimensions-UCE-thrushes001.png)               ![Image](images/Dimensions-UCE-thrushes002.png)
 
