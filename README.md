@@ -87,6 +87,11 @@ I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chryso
 
 ---
 
-### Notes 
+:cloud: Data stored (21/08/2017) on `/nobackup/data14/romina/projects/turdus-targetcapture-backup-rawdata/data/Facilities/RapidGenomics/rawdata-sequences
+` on [Albioix](http://albiorix.bioenv.gu.se/)
 
-:on: Analyses running in `/state/partition4/romina/` on [Albioix](http://albiorix.bioenv.gu.se/)
+---
+
+:on: Analyses running in high_mem `/nobackup/data14/romina/projects/turdus-south-america/analysis` on [Albioix](http://albiorix.bioenv.gu.se/)
+
+---
