@@ -92,6 +92,6 @@ I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chryso
 
 ---
 
-:on: Analyses running in high_mem `/nobackup/data14/romina/projects/turdus-south-america/analysis` on [Albioix](http://albiorix.bioenv.gu.se/)
+:on: Analyses running in high_mem `/proj/data14/romina/projects/turdus-south-america` on [Albioix](http://albiorix.bioenv.gu.se/)
 
 ---
