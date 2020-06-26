@@ -1,16 +1,22 @@
 ### Authors
 ---
 
-##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>4</sup>, Tobias Hoffmann<sup>2</sup><sup>,</sup><sup>3</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>, Alexandre Aleixo<sup>5</sup>, Alexandre Antonelli<sup>3</sup><sup>,</sup><sup>4</sup>, Joel Cracraft<sup>1</sup><sup>,</sup><sup>2</sup>, Camila Ribas<sup>8</sup><sup>
+##### Romina Batista</sup><sup>1</sup><sup>,</sup><sup>3</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>, Tobias Andermann<sup>3</sup><sup>,</sup><sup>4</sup>, Alexandre Aleixo<sup>4</sup>, Alexandre Antonelli<sup>2</sup><sup>,</sup><sup>3</sup>,</sup><sup>5</sup>, Joel Cracraft</sup><sup>6</sup><sup>, Camila Ribas</sup><sup>7</sup><sup>
 ---
 
 <sup>1</sup>Programa de Pós-Graduação em Genética, Conservação e Biologia Evolutiva, PPG ([GCBEV](http://gcbev.inpa.gov.br/))  - Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
 
-<sup>2</sup>Gothenburg Global Biodiversity Centre, Box 461, SE-405 30 Gothenburg, Sweden
+<sup>2</sup>Gothenburg Global Biodiversity Centre, ([GGBC](https://ggbc.gu.se/)), Box 461, 405 30 Gothenburg, Sweden 
 
-<sup>3</sup>University of Gothenburg - Department of Biological and Environmental Sciences, [The Antonelli Lab](http://www.antonelli-lab.net/), [Antonelli-Lab Github](https://github.com/AntonelliLab), SE-413 19 Gothenburg, Sweden 
+<sup>3</sup>[Department of Biological and Environmental Sciences](https://bioenv.gu.se/english), University of Gothenburg, SE-413 19 Gothenburg, Sweden
 
-<sup>8</sup>Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
+<sup>4</sup>[Finnish Museum of Natural History](https://researchportal.helsinki.fi/en/persons/alexandre-luis-padovan-aleixo), University of Helsinki, P.O. Box 17, 00014 Helsinki, Finland
+
+<sup>5</sup>Royal Botanic Gardens, ([Kew](https://www.kew.org/)), Richmond, Surrey TW9 3AE, UK
+
+<sup>6</sup>Department of Ornithology, ([American Museum of Natural History](https://www.amnh.org/research/staff-directory/joel-l.-cracraft)), New York, NY, USA
+
+<sup>7</sup>Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
 
 
 ![Image](images/Dimensions-UCE-thrushes001.png)               ![Image](images/Dimensions-UCE-thrushes002.png)
