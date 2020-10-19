@@ -100,7 +100,6 @@ I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chryso
 
 ---
 
-:memo:
-:pencil: at `/scratch/biogeoam/romina.batista2/scripts_jobs/Turdus_SouthAmerica/`, [SDumont](https://sdumont.lncc.br/) 
+:memo: scripts at `/scratch/biogeoam/romina.batista2/scripts_jobs/Turdus_SouthAmerica/`, [SDumont](https://sdumont.lncc.br/) 
 
 ---
