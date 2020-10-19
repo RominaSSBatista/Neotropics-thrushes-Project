@@ -96,6 +96,11 @@ I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chryso
 
 ---
 
-:on: Analyses running at `/prj/scratch/biogeoam/romina.batista2/Assembly_Itero` on [SDumont](https://sdumont.lncc.br/)
+:on: Analyses running at `/prj/scratch/biogeoam/romina.batista2/Assembly_Itero`, [SDumont](https://sdumont.lncc.br/)
+
+---
+
+:memo:
+:pencil: at `/scratch/biogeoam/romina.batista2/scripts_jobs/Turdus_SouthAmerica/`, [SDumont](https://sdumont.lncc.br/) 
 
 ---
