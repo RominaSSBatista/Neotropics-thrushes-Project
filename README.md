@@ -63,7 +63,7 @@ Funding for this project came from:
 1. NATIONAL SCIENCE FOUNDATION and FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO - FAPESP: 2012/50260-6, TITLE OF THE PROJECT "ASSEMBLY AND EVOLUTION OF THE AMAZONIAN BIOTA AND ITS ENVIRONMENT: AN INTEGRATED APPROACH". Principal Investigators (PI): [Lúcia Lohmann](http://lattes.cnpq.br/3340828165410597)
 (IB-USP) e [Joel Cracraft](http://www.amnh.org/our-research/staff-directory/joel-l.-cracraft/) (AMNH). 
 
-2. Coordination for the Improvement of Higher Education Personnel (CAPES), A Doctoral Fellowship for Interneship abroad to Romina Batista. 
+2. Coordination for the Improvement of Higher Education Personnel (CAPES), A Doctoral Fellowship for Internship abroad to Romina Batista. 
 
 3. The Antonelli Lab (funding provided to Alexandre Antonelli from the European Research Council under the European Union’s Seventh Framework Programme [FP/2007-2013, ERC Grant Agreement n. 331024], the Wallenberg Foundation for a  Wallenberg Academy Fellowship, and the Swedish Research Council [2015-04857]).  
 
@@ -97,6 +97,8 @@ I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chryso
 ---
 
 :on: Analyses running at `/prj/scratch/biogeoam/romina.batista2/Assembly_Itero`, [SDumont](https://sdumont.lncc.br/)
+
+:on: Analyses running Romina's local machine `/Users/Romina/Dropbox (ecoevounifesp)/Postdoc_INPA_2020/1. Turdus_South_America/Data_and_Analyses` 
 
 ---
 
