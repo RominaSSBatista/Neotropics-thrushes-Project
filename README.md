@@ -26,15 +26,11 @@
 ### Overview
 ---
 
-The genus *Turdus* (Aves, Turdidae) consists of 71 currently recognised species occurring throughout the world. Previous attempts to reconstruct phylogenies have proved extremely challenging due to short internal branches and low node support. South and Central America currently host the highest number of species (23 of 71) in the genus Turdus (Aves: Turdidae), and previous studies ([Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)) suggest that this is due to an exceptional radiation following dispersal from Africa (see below, Figure 1, from [Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)). Detailed biogeographic studies on a finer scale in South America are necessary to examine the evolutionary history for these taxa, as well as for revising current taxonomy. 
-
-![Image](images/Dimensions-UCE-thrushes004.png)
+The genus *Turdus* (Aves, Turdidae) consists of 83 currently recognised species occurring throughout the world. Previous attempts to reconstruct phylogenies have proved extremely challenging due to short internal branches and low node support. South and Central America currently host the highest number of species (ca.30) in the genus Turdus (Aves: Turdidae). A recently study ([Batista et al, 2020](10.1098/rspb.2019.2400)) suggest that dispersal from the Western Palaearctic via the Antilles to the Neotropics might have occurred in a single event, giving rise to the rich Neotropical diversity of Turdus observed today, with no reverse dispersals to the Palaearctic or Africa. Detailed biogeographic studies on a finer scale in South America are necessary to examine the evolutionary history for these taxa, as well as for revising current taxonomy. 
 
 The application of Ultraconserved Elements ([UCEs](http://ultraconserved.org/)) is currently one of the most popular methods for phylogenomics using reduced representation genomic datasets. UCEs are highly conserved across distantly related taxa and have variable flanking regions. These characteristics make UCEs useful genetic markers for both deep and shallow evolutionary timescales, and they have successfully been used to resolve challenging phylogenetic relationships among many taxa (eg. birds, turtles, fishes). 
 
-Here, we sequenced ~2,386 UCEs loci and 47 loci, used in previous phylogenetic studies for birds, for 102 individuals of 11 species of the genus *Turdus* sampled across South and Central America (see Image below).
-
-![Image](images/Dimensions-UCE-thrushes003.png) 
+Here, we sequenced >2K UCEs loci for 142 individuals of 24 species of the genus *Turdus* sampled across South America.
 
 ---
 
@@ -89,8 +85,6 @@ We would like to thank the many institutions that provided tissue loans for this
 *	American Museum of Natural History, AMNH, New York, NY, USA ([AMNH](http://www.amnh.org/science/divisions/vertzoo/#collections)).
 
 We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository.
-
-I also would like to thank [Chrysoula Gubili](http://www.marianilab.org/#!chrysoula-gubili/mo1in) for her constructive advice and support to improve the Bioinformatic's Workflow.
 
 ---
 
