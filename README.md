@@ -45,8 +45,8 @@ Here, we sequenced ~2,386 UCEs loci and 47 loci, used in previous phylogenetic s
 
 *	Romina Batista extracted DNA and sent outsourcing ([Rapid Genomics](http://www.rapid-genomics.com/)) to proceed with Library Preparation, Sequence Capture and Sequencing. 
 
-*	Romina Batista processed the data, with [Tobias Hoffmann](https://github.com/tobiashofmann88) guidance. 
-
+*	Romina Batista processed the data.
+  
 *	Romina Batista built this repository.
 
 *	Romina Batista is analysing the data, and leading manuscript preparation. 
@@ -63,9 +63,11 @@ Funding for this project came from:
 1. NATIONAL SCIENCE FOUNDATION and FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO - FAPESP: 2012/50260-6, TITLE OF THE PROJECT "ASSEMBLY AND EVOLUTION OF THE AMAZONIAN BIOTA AND ITS ENVIRONMENT: AN INTEGRATED APPROACH". Principal Investigators (PI): [Lúcia Lohmann](http://lattes.cnpq.br/3340828165410597)
 (IB-USP) e [Joel Cracraft](http://www.amnh.org/our-research/staff-directory/joel-l.-cracraft/) (AMNH). 
 
-2. Coordination for the Improvement of Higher Education Personnel (CAPES), A Doctoral Fellowship for Internship abroad to Romina Batista. 
+2. Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brazil (CAPES), A Doctoral Fellowship for Internship abroad to Romina Batista. 
 
 3. The Antonelli Lab (funding provided to Alexandre Antonelli from the European Research Council under the European Union’s Seventh Framework Programme [FP/2007-2013, ERC Grant Agreement n. 331024], the Wallenberg Foundation for a  Wallenberg Academy Fellowship, and the Swedish Research Council [2015-04857]).  
+  
+4. Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brazil (CAPES-INPA proc. 88887477562/2020-00), a Post-Doctoral Fellowship to Romina Batista
 
 ---
 
