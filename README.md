@@ -101,3 +101,5 @@ We also would like to thank [Mats Töpel](http://matstopel.se/), for his support
 :memo: scripts at `/scratch/biogeoam/romina.batista2/scripts_jobs/Turdus_SouthAmerica/`, [SDumont](https://sdumont.lncc.br/) 
 
 ---
+  
+open :notebook: `/Users/Romina/Dropbox (ecoevounifesp)/Postdoc_INPA_2020/1. Turdus_South_America/Documentation_Notebook_Jupyter/Workflow_UCE_Turdus_SouthAmerica.ipynb`
